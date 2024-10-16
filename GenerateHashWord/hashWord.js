@@ -16,6 +16,8 @@
       /* inputArray[i]=inputArray[i].replaceAt(0,inputArray[i][0].toUpperCase()); */
       hashWord = hashWord + curWord;
     }
+
+    // can also use inputArray.join('');
     return hashWord
   }
   
