@@ -36,4 +36,4 @@ const charCountFromReduce = (input,character) => {
 /* console.log(charCount('MissIssippi', 'I')); */
 
 
-console.log(charCountFromReduce('MissIssippi', 'I'));
+console.log(charCountFromReduce('MissIssippi', 'I')); 
